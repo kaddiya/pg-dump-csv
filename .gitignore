@@ -1,5 +1,9 @@
 *.class
 
+*.idea/*
+pg-dump-csv.*
+.gradle/
+*.csv
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
